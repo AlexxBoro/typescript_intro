@@ -7,3 +7,7 @@ console.log("user clicks a button");
 component.onClick();
 console.log(component);
 console.log("likesCount: " + component.likesCount + ", isSelected: " + component.isSelected);
+console.log("user clicks a button again");
+component.onClick();
+console.log(component);
+console.log("likesCount: " + component.likesCount + ", isSelected: " + component.isSelected);
